@@ -17,7 +17,7 @@ title: Robbie Singer Photography
 email: robbiebsinger@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   A website for the Photography of Robbie Singer or rabshab on Instagram
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 instagram_username: rabshab
 github_username:  rabshab
